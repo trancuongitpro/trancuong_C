@@ -1,0 +1,20 @@
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\bin\Debug\VuTruLink.exe
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\bin\Debug\VuTruLink.pdb
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\obj\Debug\VuTruLink.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\obj\Debug\VuTruLink.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\obj\Debug\VuTruLink.exe
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\obj\Debug\VuTruLink.pdb
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\bin\Debug\HtmlAgilityPack.dll
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\bin\Debug\HtmlAgilityPack.xml
+C:\Users\NHAT\RiderProjects\VuTruLink\VuTruLink\obj\Debug\VuTruLink.csproj.CopyComplete
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\bin\Debug\VuTruLink.exe
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\bin\Debug\VuTruLink.pdb
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\bin\Debug\HtmlAgilityPack.dll
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\bin\Debug\HtmlAgilityPack.xml
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\obj\Debug\VuTruLink.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\obj\Debug\VuTruLink.csproj.CopyComplete
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\obj\Debug\VuTruLink.exe
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\obj\Debug\VuTruLink.pdb
+C:\Users\TRAN DUNG\Desktop\VuTruLink\VuTruLink\VuTruLink\obj\Debug\VuTruLink.csproj.AssemblyReference.cache
